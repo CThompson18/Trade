@@ -1,0 +1,5 @@
+C:\Projects\MqlSqlDemo\MqlSqlDemo\bin\Release\MqlSqlDemo.dll
+C:\Projects\MqlSqlDemo\MqlSqlDemo\bin\Release\MqlSqlDemo.pdb
+C:\Projects\MqlSqlDemo\MqlSqlDemo\obj\Release\MqlSqlDemo.csprojResolveAssemblyReference.cache
+C:\Projects\MqlSqlDemo\MqlSqlDemo\obj\Release\MqlSqlDemo.dll
+C:\Projects\MqlSqlDemo\MqlSqlDemo\obj\Release\MqlSqlDemo.pdb

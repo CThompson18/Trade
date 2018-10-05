@@ -1,0 +1,4 @@
+C:\Projects\MqlSqlDemo\MqlSqlDemo\bin\Debug\MqlSqlDemo.dll
+C:\Projects\MqlSqlDemo\MqlSqlDemo\bin\Debug\MqlSqlDemo.pdb
+C:\Projects\MqlSqlDemo\MqlSqlDemo\obj\Debug\MqlSqlDemo.dll
+C:\Projects\MqlSqlDemo\MqlSqlDemo\obj\Debug\MqlSqlDemo.pdb
